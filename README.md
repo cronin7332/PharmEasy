@@ -8,6 +8,8 @@
 
 ## Download this Zip file and Paste it in C:\xampp\htdocs location.
 
-## On web browser search for http://localhost/phpmyadmin/ -> This is for Mysql Database entires
+## On web browser search for http://localhost/phpmyadmin/ -> This is for Mysql Database entires and to create a Database with name "pharmeasy"
 
-## On another tab of same web browser search for http://localhost/Pharma/
+## After creating Database import the .sql file for table creation, schema and everthing else.
+
+## On another tab of same web browser search for http://localhost/Pharma
